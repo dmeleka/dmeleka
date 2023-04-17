@@ -1,18 +1,3 @@
-<!--
-**dmeleka/dmeleka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <p align="center">
   <a href="https://github.com/dmeleka"> <img src="public/Welcome.svg"/> </a>
 </p>
@@ -21,8 +6,8 @@ Here are some ideas to get you started:
 
   🎓 &nbsp;I'm currently studying Computer Science Engineering at the GUC - German University in Cairo.\
   💡 &nbsp;Some technologies I enjoy working with include Java, Git, HTML, CSS, JavaScript.\
-  🌱 &nbsp;I'm on track for learning more about Data Structures and Algorithm, Software Development, Systems Design.\
-  👨‍💻 &nbsp;I'm working on xChange - a currency exchange rates website.\
+  🌱 &nbsp;I'm on track for learning more about web development\
+  👨‍💻 &nbsp;I'm working on Vault - a password manager webapp.\
   ✉️ &nbsp;Get in touch with me via email at ```daniel.meleka@icloud.com``` or connect on [LinkedIn](https://www.linkedin.com/in/dmeleka). 
 
 
@@ -30,7 +15,6 @@ Here are some ideas to get you started:
 
 [<img alt="LinkedIn" width="25px" src="public/LinkedIn.svg">](https://www.linkedin.com/in/dmeleka) &nbsp; 
 [<img alt="Mail" width="25px" src="public/Mail.svg">](mailto:daniel.meleka@icloud.com) &nbsp; 
-<!-- [<img alt="Twitter" width="25px" src="assets/twitter.svg">](https://twitter.com/intent/follow?screen_name=SamirPaulb) -->
 
  <b> </b>
  
