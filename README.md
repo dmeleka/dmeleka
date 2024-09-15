@@ -4,7 +4,7 @@
 
 <b>*About Me*:</b> 
 
-  🎓 &nbsp;I'm currently studying Computer Science Engineering at the GUC - German University in Cairo.\
+  🎓 &nbsp;I'm a Fresh Graduate with a degree in Computer Scinece and Engineering.\
   💡 &nbsp;Some technologies I enjoy working with include Java, Git, HTML, CSS, JavaScript.\
   🌱 &nbsp;I'm on track for learning more about web development\
   👨‍💻 &nbsp;I'm working on Vault - a password manager webapp.\
